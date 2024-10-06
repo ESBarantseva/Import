@@ -1,0 +1,6 @@
+tmp/
+*_old
+*_backup
+*_.db
+*.DS_Store
+
